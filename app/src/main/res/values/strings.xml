@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MineBot</string>
+    <string name="test_backend">Test Backend</string>
+    <string name="status_idle">Idle</string>
+    <string name="status_connecting">Connecting...</string>
+    <string name="status_ok">Server OK</string>
+    <string name="status_failed">Connection failed</string>
+</resources>
